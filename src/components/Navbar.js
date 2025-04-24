@@ -22,19 +22,19 @@ const Navbar = () => {
     <div className="collapse navbar-collapse" id="navbarSupportedContent">
       <ul className="navbar-nav mx-auto mb-2 mb-lg-0 d-flex gap-4">
         <li className="nav-item">
-          <a className="nav-link text-light" href="/home">Home</a>
+          <a className="nav-link text-light" href="/#/home">Home</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link text-light" href="/about">About</a>
+          <a className="nav-link text-light" href="/#/about">About</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link text-light" href="/resume">Resume</a>
+          <a className="nav-link text-light" href="/#/resume">Resume</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link text-light" href="/project">Projects</a>
+          <a className="nav-link text-light" href="/#/project">Projects</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link text-light" href="contact">Contacts</a>
+          <a className="nav-link text-light" href="/#contact">Contacts</a>
         </li>
        
       </ul>
