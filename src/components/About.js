@@ -38,15 +38,14 @@ const About = () => {
             <div className="col-sm-6" data-aos="fade-up" data-aos-delay="100">
               <ul className="list-unstyled">
                 <li><strong>Birthday:</strong> 19 Nov</li>
-                <li><strong>Website:</strong> www.example.com</li>
-                <li><strong>Phone:</strong> 8826440432</li>
+                <li><strong>Phone:</strong> 8826440431</li>
                 <li><strong>City:</strong> Gwalior</li>
               </ul>
             </div>
             <div className="col-sm-6" data-aos="fade-up" data-aos-delay="200">
               <ul className="list-unstyled">
-                <li><strong>Age:</strong> 31</li>
-                <li><strong>Degree:</strong> B.Tech</li>
+                <li><strong>Age:</strong> 32</li>
+                <li><strong>Degree:</strong> B.Tech(CSE)</li>
                 <li><strong>Email:</strong> mansimandre19@gmail.com</li>
                 <li><strong>Experience:</strong> 2 Years</li>
               </ul>

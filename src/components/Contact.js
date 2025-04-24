@@ -26,11 +26,11 @@ const Contact = () => {
               </li>
               <li className="mb-3">
                 <FaPhoneAlt className="mr-2" />
-                <strong>Call Us:</strong> 8826440432
+                <strong>Call Us:</strong> 8826440431
               </li>
               <li className="mb-3">
                 <FaEnvelope className="mr-2" />
-                <strong>Email Us:</strong> mansimandre@ubitechsolutions.com
+                <strong>Email Us:</strong> mansimandre19@gmail.com
               </li>
             </ul>
             {/* Embedding a simple map */}
