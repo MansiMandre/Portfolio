@@ -1,17 +1,16 @@
 import React from 'react';
-import { HashRouter  , Routes, Route } from 'react-router-dom';
+import { HashRouter, Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Home from './components/Home';
-import About from './components/About'; // Make sure you create this component
-import Resume from './components/Resume'; // Make sure you create this component
+import About from './components/About';
+import Resume from './components/Resume';
 import Projects from './components/Projects';
 import Contact from './components/Contact';
-import 'aos/dist/aos.css'; // Import AOS styles
-
+import 'aos/dist/aos.css';
 
 function App() {
   return (
-    <HashRouter  basename='/Portfolio'>
+    <HashRouter>
       <div>
         <Navbar />
         <Routes>
@@ -23,7 +22,7 @@ function App() {
           <Route path="/contact" element={<Contact />} />
         </Routes>
       </div>
-    </HashRouter >
+    </HashRouter>
   );
 }
 
