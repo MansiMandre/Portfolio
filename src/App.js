@@ -11,7 +11,7 @@ import 'aos/dist/aos.css'; // Import AOS styles
 
 function App() {
   return (
-    <Router>
+    <Router basename='/Portfolio'>
       <div>
         <Navbar />
         <Routes>
