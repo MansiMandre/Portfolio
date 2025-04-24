@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter , Routes, Route } from 'react-router-dom';
+import { HashRouter  , Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Home from './components/Home';
 import About from './components/About'; // Make sure you create this component
@@ -11,7 +11,7 @@ import 'aos/dist/aos.css'; // Import AOS styles
 
 function App() {
   return (
-    <BrowserRouter basename='/Portfolio'>
+    <HashRouter  basename='/Portfolio'>
       <div>
         <Navbar />
         <Routes>
@@ -23,7 +23,7 @@ function App() {
           <Route path="/Portfolio/contact" element={<Contact />} />
         </Routes>
       </div>
-    </BrowserRouter>
+    </HashRouter >
   );
 }
 
