@@ -77,10 +77,20 @@ const Resume = () => {
                 <h5 className="fw-bold" style={{ color: '#2C3E50' }}>Software Developer</h5>
                 <p className="text-muted">2023 - Present | Experion, Gwalior, MP</p>
                 <ul>
-                  <li>Developed scalable applications using Adonisjs, Node.js, and MySql.</li>
-                  <li>Built reusable components and libraries for future use.</li>
-                  <li>Optimized applications for maximum speed and scalability.</li>
-                  <li>Managed project timelines and delivered high-quality software within deadlines.</li>
+                 <li>Developed scalable applications using AdonisJS, Node.js, and MySQL.</li>
+<li>Built reusable components and libraries for future use.</li>
+<li>Optimized applications and APIs for maximum speed, reduced time complexity, and improved scalability.</li>
+<li>Collaborated with sales teams and clients to gather requirements and delivered projects on time.</li>
+<li>Used AWS services such as S3 for image storage and CloudWatch for faster debugging and monitoring.</li>
+<li>Provided efficient and effective solutions to complex development challenges.</li>
+<li>Managed project timelines and delivered high-quality software within deadlines.</li>
+<li>Integrated third-party like Razor Pay,Firebase,Supabase for authentication ,enable X for sms and Biometrics for payments, notifications, and authentication workflows.</li>
+<li>Wrote clean, maintainable, and well-documented code following industry best practices.</li>
+<li>Worked closely with QA to resolve bugs quickly and ensure seamless user experience.</li>
+<li>Deployed and maintained production applications using CI/CD pipelines and Git version control.</li>
+<li>Participated in daily stand-ups and sprint planning meetings to ensure team alignment and progress.</li>
+<li>Contributed to code reviews and mentoring junior developers to improve code quality and team productivity.</li>
+
                 </ul>
               </div>
             </div>

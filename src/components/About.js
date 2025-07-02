@@ -31,7 +31,7 @@ const About = () => {
         <div className="col-md-7">
           <h3 className="fw-bold mb-3" data-aos="fade-up">Web Developer</h3>
           <p data-aos="fade-up">
-            Proficient in front-end technologies like <strong>React</strong>, <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> and backend with <strong>Node.js</strong>, <strong>Adonisjs</strong>, <strong>MySQL</strong>,<strong>Express</strong>.
+            Proficient in front-end technologies like <strong>React</strong>, <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> and backend with <strong>Node.js</strong>, <strong>Adonisjs</strong>, <strong>MongoDB</strong>,<strong>MySQL</strong>,<strong>Express</strong>,<strong>AWS</strong>.
           </p>
 
           <div className="row">
