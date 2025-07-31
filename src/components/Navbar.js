@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaFacebookF, FaInstagram, FaTwitter, FaLinkedinIn } from 'react-icons/fa';
+import {  FaLinkedinIn } from 'react-icons/fa';
 import { Link } from 'react-router-dom';  // Import Link for routing
 
 const Navbar = () => {
@@ -41,10 +41,9 @@ const Navbar = () => {
 
           {/* Social Media Icons */}
           <div className="d-flex gap-3 ms-auto" style={{ marginRight: '10px', marginLeft: '-20px' }}>
-            <a href="#"><FaFacebookF className="text-light" /></a>
-            <a href="#"><FaInstagram className="text-light" /></a>
-            <a href="#"><FaTwitter className="text-light" /></a>
-            <a href="#"><FaLinkedinIn className="text-light" /></a>
+          
+        
+            <a href=" https://www.linkedin.com/in/mansi-mandre-557705255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><FaLinkedinIn className="text-light" /></a>
           </div>
         </div>
       </div>
