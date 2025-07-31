@@ -73,7 +73,7 @@ const Home = () => {
                       opacity: 0.8,
                     }}
                   >
-                    I am a Software Developer from Gwalior.
+                    I am a Full Stack Developer from Gwalior.
                   </p>
                   <button
                     className="btn btn-light mt-4 px-4 py-2"

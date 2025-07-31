@@ -28,14 +28,13 @@ const Resume = () => {
             </h3>
             <h5 className="fw-bold" style={{ color: '#2C3E50' }}>Ubitech Solutions Pvt Ltd</h5>
             <p className="text-muted">
-              Software Developer with over 2 years of hands-on experience in designing, implementing, and maintaining  web applications. Adept at working with JavaScript frameworks, REST APIs, and cloud platforms. Proven track record in delivering robust solutions with optimal user experience and performance.
-            </p>
+Full Stack Developer with 2+ years of practical experience in building scalable and high-performing web applications using the MERN stack, AdonisJS, and AWS. Skilled in crafting RESTful APIs, integrating databases, and delivering seamless user experiences through clean, efficient code. Known for turning ideas into robust digital solutions with a strong focus on performance and backend architecture.            </p>
             <ul className="list-unstyled">
               <li>
                 <FaMapMarkerAlt className="me-2" /> <strong>Address:</strong> Jayendraganj, Gwalior, MP, India
               </li>
               <li>
-                <FaPhoneAlt className="me-2" /> <strong>Phone:</strong> +91 98746 53210
+                <FaPhoneAlt className="me-2" /> <strong>Phone:</strong> +91 8826440431
               </li>
               <li>
                 <FaEnvelope className="me-2" /> <strong>Email:</strong> mansimandre19@gmail.com
