@@ -90,7 +90,7 @@ const Projects = () => {
     <>
       <div className="text-center mb-4">
         <h2 className="display-6 fw-bold">{title}</h2>
-        <p className="text-muted">Click on the project name to view it.</p>
+        
       </div>
       <div className="row">
         {list.map((project, idx) => (

@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { FaHtml5, FaCss3Alt, FaReact, FaNodeJs, FaJs, FaAws } from 'react-icons/fa';
+import { FaHtml5, FaCss3Alt, FaReact, FaNodeJs, FaJs, FaAws ,FaGithub,FaLinkedin} from 'react-icons/fa';
 import { SiExpress, SiMongodb, SiMysql,SiTailwindcss,SiTypescript } from 'react-icons/si';
  
 
@@ -61,6 +61,16 @@ const About = () => {
             I'm always excited to collaborate on meaningful projects that make a difference.
           </p>
         </div>
+           {/* Social Links */}
+      <div className="text-center mt-5" data-aos="fade-up" data-aos-delay="400">
+        <p>Connect with me:</p>
+        <a href="https://github.com/mansimandre" target="_blank" rel="noopener noreferrer" className="mx-3 text-dark">
+          <FaGithub size={36} />
+        </a>
+        <a href=" https://www.linkedin.com/in/mansi-mandre-557705255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer" className="mx-3 text-primary">
+          <FaLinkedin size={36} />
+        </a>
+      </div>
       </div>
 
       {/* Skills Section */}
@@ -96,6 +106,7 @@ const About = () => {
           </div>
         ))}
       </div>
+   
     </div>
   );
 };
